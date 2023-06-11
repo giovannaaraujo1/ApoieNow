@@ -1,0 +1,60 @@
+*{font-family: 'Manrope', sans-serif;
+    background-color: FDFAEE;
+}
+
+.marrom {
+    background-color:#A7727D;
+}
+.menu{
+    margin-left:auto;
+}
+.menu a{
+    color: white;
+}
+
+.container{ 
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+}
+.corpo{
+    
+    margin-top: 50px;
+    max-width: 100%;
+    text-align: justify; 
+    color: #A7727D 
+
+
+}
+.img{
+    margin-top: 50px;
+    width: 100px;
+    height: 100px;
+    display: flex; 
+   
+}
+
+
+
+.main-footer{
+    background-color: #A7727D;
+    margin-top: 80px;
+}
+
+.forms{
+    width: 400px;
+    padding: 30px;
+    width: auto;
+    
+    }
+
+.button{
+    margin-bottom: auto;
+    color: #A7727D;
+}
+
+
+
+    
+
+
