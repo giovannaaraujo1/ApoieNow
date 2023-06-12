@@ -11,19 +11,19 @@
 .menu a{
     color: white;
 }
-.sessao-principal{
+.container{
     display: flex;
     flex-direction: column;
-    align-items: center;
+    color: #A7727D;
+    text-align: center;
+  
 
 }
 .sessao-principal img{
     margin-top: 50px;
       
 }
-.sessao-principal{
-    color: #A7727D;
-}
+
 
 .main-footer{
     background-color: #A7727D;
@@ -33,12 +33,7 @@
 .texto-ods{
     text-align: center;
     margin-top: 50px;
-    color: #A7727D;
+    color: black;
 }
 
-.tabelaods{
-    margin: auto;
-    text-align: justify;
-    
-}
 
